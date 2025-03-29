@@ -23,3 +23,5 @@ Foi estruturado o os dados em Dicionários e listas, já que em C# é oferecido 
 Os dados foram armazenados em um arquivo Json, fazendo com que os dados fiquem persistidos. Ou seja, não sendo necessário a criação de todos os dados para cada execução do programa.Os dados estão salvos na pasta bin com o nome "dados.json".
 
 Por fim, buscou-se o tratamento do código para evitar possíveis erros de inserção de dados.
+
+Foi utiilizado a versão 9.0 do .NET para este projeto.
