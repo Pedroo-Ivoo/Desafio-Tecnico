@@ -20,6 +20,6 @@ Outra que exibe os valores totais vinculados a cada nome (receita e despesas), b
 
 Foi estruturado o os dados em Dicionários e listas, já que em C# é oferecido alguns métodos que facilitam a sua manipulação
 
-Os dados foram armazenados em um arquivo Json, fazendo com que os dados fiquem persistidos. Ou seja, não sendo necessário a criação de todos os dados para cada execução do programa.
+Os dados foram armazenados em um arquivo Json, fazendo com que os dados fiquem persistidos. Ou seja, não sendo necessário a criação de todos os dados para cada execução do programa.Os dados estão salvos na pasta bin com o nome "dados.json".
 
 Por fim, buscou-se o tratamento do código para evitar possíveis erros de inserção de dados.
