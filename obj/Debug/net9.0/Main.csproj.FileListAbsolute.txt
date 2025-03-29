@@ -1,0 +1,14 @@
+C:\Users\mange\OneDrive\Documentos\Programação\Teste  para estagio\Maxiprod\CSharp\Main\bin\Debug\net9.0\Main.exe
+C:\Users\mange\OneDrive\Documentos\Programação\Teste  para estagio\Maxiprod\CSharp\Main\bin\Debug\net9.0\Main.deps.json
+C:\Users\mange\OneDrive\Documentos\Programação\Teste  para estagio\Maxiprod\CSharp\Main\bin\Debug\net9.0\Main.runtimeconfig.json
+C:\Users\mange\OneDrive\Documentos\Programação\Teste  para estagio\Maxiprod\CSharp\Main\bin\Debug\net9.0\Main.dll
+C:\Users\mange\OneDrive\Documentos\Programação\Teste  para estagio\Maxiprod\CSharp\Main\bin\Debug\net9.0\Main.pdb
+C:\Users\mange\OneDrive\Documentos\Programação\Teste  para estagio\Maxiprod\CSharp\Main\obj\Debug\net9.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mange\OneDrive\Documentos\Programação\Teste  para estagio\Maxiprod\CSharp\Main\obj\Debug\net9.0\Main.AssemblyInfoInputs.cache
+C:\Users\mange\OneDrive\Documentos\Programação\Teste  para estagio\Maxiprod\CSharp\Main\obj\Debug\net9.0\Main.AssemblyInfo.cs
+C:\Users\mange\OneDrive\Documentos\Programação\Teste  para estagio\Maxiprod\CSharp\Main\obj\Debug\net9.0\Main.csproj.CoreCompileInputs.cache
+C:\Users\mange\OneDrive\Documentos\Programação\Teste  para estagio\Maxiprod\CSharp\Main\obj\Debug\net9.0\Main.dll
+C:\Users\mange\OneDrive\Documentos\Programação\Teste  para estagio\Maxiprod\CSharp\Main\obj\Debug\net9.0\refint\Main.dll
+C:\Users\mange\OneDrive\Documentos\Programação\Teste  para estagio\Maxiprod\CSharp\Main\obj\Debug\net9.0\Main.pdb
+C:\Users\mange\OneDrive\Documentos\Programação\Teste  para estagio\Maxiprod\CSharp\Main\obj\Debug\net9.0\Main.genruntimeconfig.cache
+C:\Users\mange\OneDrive\Documentos\Programação\Teste  para estagio\Maxiprod\CSharp\Main\obj\Debug\net9.0\ref\Main.dll

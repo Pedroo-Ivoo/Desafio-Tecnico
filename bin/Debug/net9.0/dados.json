@@ -1,0 +1,119 @@
+{
+  "1": {
+    "Id": 1,
+    "Nome": "Pedro",
+    "Idade": 39,
+    "Receitas": [
+      {
+        "IdRec": 1,
+        "IdDes": 0,
+        "Descricao": "Salario",
+        "Valor": 1000,
+        "Tipo": "Receita"
+      },
+      {
+        "IdRec": 2,
+        "IdDes": 0,
+        "Descricao": "Venda de livro",
+        "Valor": 35.5,
+        "Tipo": "Receita"
+      },
+      {
+        "IdRec": 3,
+        "IdDes": 0,
+        "Descricao": "Aula Particular",
+        "Valor": 200.5,
+        "Tipo": "Receita"
+      }
+    ],
+    "Despesas": [
+      {
+        "IdRec": 0,
+        "IdDes": 1,
+        "Descricao": "Supermercado",
+        "Valor": 400,
+        "Tipo": "Despesas"
+      },
+      {
+        "IdRec": 0,
+        "IdDes": 2,
+        "Descricao": "Conta de luz",
+        "Valor": 50.5,
+        "Tipo": "Despesas"
+      }
+    ]
+  },
+  "2": {
+    "Id": 2,
+    "Nome": "Maria",
+    "Idade": 42,
+    "Receitas": [
+      {
+        "IdRec": 1,
+        "IdDes": 0,
+        "Descricao": "Salario",
+        "Valor": 3000,
+        "Tipo": "Receita"
+      },
+      {
+        "IdRec": 2,
+        "IdDes": 0,
+        "Descricao": "Bonus da empresa",
+        "Valor": 1150,
+        "Tipo": "Receita"
+      }
+    ],
+    "Despesas": []
+  },
+  "3": {
+    "Id": 3,
+    "Nome": "Aline",
+    "Idade": 7,
+    "Receitas": [],
+    "Despesas": [
+      {
+        "IdRec": 0,
+        "IdDes": 1,
+        "Descricao": "Brinquedo",
+        "Valor": 150,
+        "Tipo": "Despesas"
+      },
+      {
+        "IdRec": 0,
+        "IdDes": 2,
+        "Descricao": "Boneca",
+        "Valor": 30,
+        "Tipo": "Despesas"
+      }
+    ]
+  },
+  "4": {
+    "Id": 4,
+    "Nome": "Manuel",
+    "Idade": 2,
+    "Receitas": [],
+    "Despesas": [
+      {
+        "IdRec": 0,
+        "IdDes": 1,
+        "Descricao": "Roupa Infantil",
+        "Valor": 350,
+        "Tipo": "Despesas"
+      },
+      {
+        "IdRec": 0,
+        "IdDes": 2,
+        "Descricao": "Papel para colorir",
+        "Valor": 17.59,
+        "Tipo": "Despesas"
+      },
+      {
+        "IdRec": 0,
+        "IdDes": 3,
+        "Descricao": "Motoca",
+        "Valor": 150.35,
+        "Tipo": "Despesas"
+      }
+    ]
+  }
+}
